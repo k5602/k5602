@@ -8,4 +8,4 @@
 `Python` `Flutter` `C++` `Web Apps` `Technical Writing` `Arabic/German/English Translation`  
 
 📫 Let’s connect:  
-[LinkedIn]([link](https://www.linkedin.com/in/khaled-mahmoud-b19210311/)) | [Upwork/Fiverr](link) | [Email](mailto:khaled.alam5602@email.com)  
+[LinkedIn](https://www.linkedin.com/in/khaled-mahmoud-b19210311/) | [Upwork/Fiverr](link) | [Email](mailto:khaled.alam5602@email.com)  
