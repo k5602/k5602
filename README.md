@@ -1,7 +1,7 @@
 # Hi, I'm Khaled Mahmoud 👋  
-[![Python Developer](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)](https://github.com/yourusername)
-[![Flutter Developer](https://img.shields.io/badge/Flutter-Cross_Platform-02569B?logo=flutter)](https://github.com/yourusername)
-[![AI/ML Engineer](https://img.shields.io/badge/AI/ML-Specialist-FF6F00?logo=tensorflow)](https://github.com/yourusername)
+[![Python Developer](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)](https://github.com/k5602)
+[![Flutter Developer](https://img.shields.io/badge/Flutter-Cross_Platform-02569B?logo=flutter)](https://github.com/k5602)
+[![AI/ML Engineer](https://img.shields.io/badge/AI/ML-Specialist-FF6F00?logo=tensorflow)](https://github.com/k5602)
 [![Technical Writer](https://img.shields.io/badge/Technical_Writer-Progressive-34a853)](https://t.me/knotes56)
 
 **Full-Stack Developer** | **AI/ML Engineer** | **Technical Writer** | **Trilingual Translator** (AR/EN/DE)
