@@ -4,7 +4,7 @@
 [![AI/ML Engineer](https://img.shields.io/badge/AI/ML-Specialist-FF6F00?logo=tensorflow)](https://github.com/k5602)
 [![Technical Writer](https://img.shields.io/badge/Technical_Writer-Progressive-34a853)](https://t.me/knotes56)
 
-**AI/ML Engineer** | **Python Developer** |**Technical Writer** | **Trilingual Translator** (AR/EN/DE)
+**AI/ML Engineer** | **Python Developer** |**Technical Writer**
 
 ---
 
