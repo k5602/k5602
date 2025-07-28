@@ -1,7 +1,7 @@
 # Hi, I'm Khaled Mahmoud 👋  
 [![AI/ML Engineer](https://img.shields.io/badge/AI/ML-Specialist-FF6F00?logo=tensorflow)](https://github.com/k5602)
 [![Backend Developer](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)](https://github.com/k5602)
-[![Rust Developer]([https://img.shields.io/badge/Flutter-Cross_Platform-02569B?logo=flutter](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white))](https://github.com/k5602)
+[![Rust Developer](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white))](https://github.com/k5602)
 
 **AI/ML Engineer** | **Backend Developer** |**Embeded Systems Engineer**
 
