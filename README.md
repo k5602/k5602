@@ -564,7 +564,8 @@ mindmap
 ### 🚀 I'm actively seeking:
 
 🔬 **AI/ML research collaborations**  
-💼 **Freelancing opportunities in automation & ML**  
+💼 **Job opportunities in Backend & AI/ML & App Development**  
+💼 **Freelancing opportunities in Fullstack App Development & Web & automation & ML**  
 🌟 **Open-source contributions**  
 📝 **Multilingual documentation projects**  
 🤖 **Custom automation solutions**  
