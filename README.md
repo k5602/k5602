@@ -597,8 +597,6 @@ mindmap
 
 ## ✨ "Code is poetry written in logic" ✨
 
-<img src="https://raw.githubusercontent.com/k5602/k5602/output/snake.svg" alt="Snake animation" />
-
 ### 🌟 Thank you for visiting my profile! 🌟
 
 ![Made with Love](https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge)
