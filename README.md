@@ -482,7 +482,7 @@ mindmap
 |:---:|:---:|:---:|:---:|
 | 🤖 **Machine Learning** | ████████████ 95% | 7+ | TensorFlow, PyTorch, Scikit-learn |
 | 🐍 **Python Development** | ████████████ 98% | 20+ | FastAPI, Django, PyQt, Automation |
-| 🦀 **Rust Programming** | ██████████░░ 85% | 3+ | Dioxus, Performance, System Programming |
+| 🦀 **Rust Programming** | ██████████░░ 85% | 4+ | Dioxus, Performance, System Programming |
 | 👁️ **Computer Vision** | ███████████░ 90% | 5+ | OpenCV, YOLO, Image Processing |
 | 🔄 **Automation** | ████████████ 95% | 10+ | Web Scraping, CI/CD, Workflows |
 | 🌐 **Web Development** | ████████░░░░ 80% | 8+ | HTML/CSS/JS, APIs, Full-stack |
@@ -581,17 +581,8 @@ mindmap
 
 ---
 
-## 💖 Support My Work
+## Support My Work
 
-<div align="center">
-
-If you find my projects helpful and would like to support my work:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/k5602)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/k5602)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/k5602)
-
-**Other ways to support:**
 - ⭐ Star my repositories if you find them useful
 - 🍴 Fork and contribute to my projects
 - 📢 Share my work with others
@@ -618,6 +609,6 @@ If you find my projects helpful and would like to support my work:
 
 ---
 
-*Last updated: August 2025 | Generated with ❤️ by Khaled Mahmoud*
+*Open Source Love | Made with ❤️ by Khaled Mahmoud*
 
 </div>
