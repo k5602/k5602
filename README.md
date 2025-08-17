@@ -170,22 +170,15 @@ I'm a versatile developer passionate about building intelligent solutions and em
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k5602&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k5602&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k5602&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## 🏅 Achievements & Stats
 
 - 🌟 **28+** Public repositories showcasing diverse skills
-- 📚 **6** Programming languages actively used (Python 43%, HTML 18%, JavaScript 17%, CSS 14%, Shell 7%, Rust 1%)
+- 📚 **6** Programming languages actively used Python, Rust, JavaScript, Cpp , Shell, Html
 - 🤖 **7+** AI/ML projects with real-world applications
 - 🖥️ **8+** Desktop applications with modern UIs in production
-- � **Web Development** Strong in HTML/CSS/JavaScript stack
+- � **Web Development** Strong in HTML/CSS/JavaScript stack and web scarping
 - �🌍 **3** Human languages supported (Arabic, English, German)
 - 📈 **Real-time** Computer vision and NLP implementations
 - 🚀 **Python Specialist** (43% of codebase) with growing Rust expertise
