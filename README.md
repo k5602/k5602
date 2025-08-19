@@ -15,24 +15,6 @@
 
 </div>
 
-## 📋 Table of Contents
-
-- [🚀 Quick Overview](#-quick-overview)
-- [🧑‍💻 About Me](#-about-me)
-- [🌟 Currently Working On](#-currently-working-on)
-- [🏆 Featured Projects](#-featured-projects)
-  - [🤖 AI/ML Projects](#-aiml-projects)
-  - [🖥️ Desktop Applications](#-desktop-applications)
-  - [🚀 Rust Applications](#-rust-applications)
-  - [🔄 Automation & Tools](#-automation--tools)
-  - [🎮 Games & Fun Projects](#-games--fun-projects)
-- [🔧 Technical Arsenal](#-technical-arsenal)
-- [📊 GitHub Analytics](#-github-analytics)
-- [🏅 Achievements & Stats](#-achievements--stats)
-- [🎯 Recent Focus Areas](#-recent-focus-areas)
-- [🤝 Let's Collaborate](#-lets-collaborate)
-- [💖 Support My Work](#-support-my-work)
-
 ---
 
 ## 🚀 Quick Overview
