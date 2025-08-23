@@ -473,33 +473,6 @@ mindmap
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### 📈 Contribution Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=k5602&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=k5602&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-
-### 🌟 Language Distribution
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k5602&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=k5602&theme=redical&hide_border=true&area=true" alt="Contribution Graph" width="48%" />
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=k5602&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" />
-
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</div>
-
----
-
 ## 🏅 Achievements & Stats
 
 <div align="center">
