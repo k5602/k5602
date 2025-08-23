@@ -489,22 +489,11 @@ mindmap
 | ⭐ **Total Stars** | ![GitHub stars](https://img.shields.io/github/stars/k5602?style=flat&color=yellow) | Growing |
 | 👥 **Followers** | ![GitHub followers](https://img.shields.io/github/followers/k5602?style=flat&color=blue) | Active Community |
 
-### 🎖️ Special Achievements
-
-🏆 **Python Specialist** - 98% proficiency with 20+ projects  
-🦀 **Rust Enthusiast** - Growing expertise in systems programming  
-🤖 **AI/ML Expert** - 7+ production-ready ML applications  
-🌐 **Multilingual Tech** - Technical documentation in 3 languages  
-� **Cross-Platform** - Desktop, web, and mobile applications  
-🔄 **Automation Master** - 10+ workflow automation projects  
-
-</div>
-
 ---
 
 ## 🎯 Recent Focus Areas
 
-- Developing ML-powered Flutter applications with TensorFlow and PyTorch
+- Developing ML-powered applications with TensorFlow and PyTorch
 - Building responsive UIs with PyQt6 and Dioxus Framework
 - Creating Multilingual NLP tools for low-resource language processing
 - Automating workflows with Python scripting + GitHub Actions
