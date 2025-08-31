@@ -15,19 +15,6 @@
 
 </div>
 
-## 📋 Table of Contents
-
-- [🚀 Quick Overview](#-quick-overview)
-- [🧑‍💻 About Me](#-about-me)
-- [🌟 Currently Working On](#-currently-working-on)
-
-- [🔧 Technical Arsenal](#-technical-arsenal)
-- [📊 GitHub Analytics](#-github-analytics)
-- [🏅 Achievements & Stats](#-achievements--stats)
-- [🎯 Recent Focus Areas](#-recent-focus-areas)
-- [🤝 Let's Collaborate](#-lets-collaborate)
-- [💖 Support My Work](#-support-my-work)
-
 ---
 
 ## 🚀 Quick Overview
@@ -79,7 +66,7 @@ mindmap
 </div>
 
 - 🤖 **Enhanced CV Analyzer**: Adding multilingual support and AI-powered recommendations
-- 🦀 **Rust Performance Tools**: Building high-speed text processing utilities
+- 🦀 **Rust**: completing course pilot
 - 🌐 **Open Source Contributions**: Contributing to Dioxus framework and ML libraries
 - 📚 **Technical Writing**: Creating comprehensive documentation for complex systems
 - 🎯 **MLOps Pipeline**: Developing automated ML model deployment workflows
@@ -141,32 +128,6 @@ mindmap
 
 ## </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### 📈 Contribution Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=k5602&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=k5602&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-
-### 📈 Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=k5602&theme=redical&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=k5602&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" />
-
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</div>
-
----
-
 ## 🏅 Achievements & Stats
 
 <div align="center">
@@ -181,22 +142,11 @@ mindmap
 |     ⭐ **Total Stars**      |    ![GitHub stars](https://img.shields.io/github/stars/k5602?style=flat&color=yellow)    |             Growing             |
 |      👥 **Followers**       | ![GitHub followers](https://img.shields.io/github/followers/k5602?style=flat&color=blue) |        Active Community         |
 
-### 🎖️ Special Achievements
-
-🏆 **Python Specialist** - 98% proficiency with 20+ projects
-🦀 **Rust Enthusiast** - Growing expertise in systems programming
-🤖 **AI/ML Expert** - 7+ production-ready ML applications
-
-🧩 **Cross-Platform** - Desktop, web, and mobile applications
-🔄 **Automation Master** - 10+ workflow automation projects
-
-</div>
-
 ---
 
 ## 🎯 Recent Focus Areas
 
-- Developing ML-powered Flutter applications with TensorFlow and PyTorch
+- Developing ML-powered applications with TensorFlow and PyTorch
 - Building responsive UIs with PyQt6 and Dioxus Framework
 - Creating Multilingual NLP tools for low-resource language processing
 - Automating workflows with Python scripting + GitHub Actions
