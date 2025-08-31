@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hi there, I'm Khaled Mahmoud! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6F00&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer+%F0%9F%A4%96;Backend+Developer+%F0%9F%90%8D;Rust+Enthusiast+%F0%9F%A6%80;Problem+Solver+%E2%9A%A1;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 [![AI/ML Engineer](https://img.shields.io/badge/AI%2FML-Specialist-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/k5602)
